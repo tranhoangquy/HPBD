@@ -63,7 +63,8 @@ body {
 
 .myAI {
     position: absolute;
-    bottom: 20px;
+    bottom: -31px;
+    border-radius: 21px;
     right: 20px;
     height: 100px;
 }

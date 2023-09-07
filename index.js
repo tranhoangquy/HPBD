@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Bất ngờ chưa...🤣🤣🤣" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc mừng sinh nhật chúc, tuổi mới công việc theo đúng lộ trình đã được vẽ ra. Chúc mọi điều tốt đẹp nhất sẽ đến chị 🥰🥰🥰, thật nhiều sức khỏe. Còn mấy cái nhan sắc chúc thêm có thừa không nhỉ. Cuối cùng vẫn là chúc mừng sinh nhật. À vẫn còn chúc đỡ l*** l** hơn, đỡ làm diễn viên hơn" //Nội dung của bức thư
+const mainContentLetter = "Chúc mừng sinh nhật chúc, tuổi mới công việc theo đúng lộ trình đã được vẽ ra. Chúc mọi điều tốt đẹp nhất sẽ đến chị 🥰🥰🥰, thật nhiều sức khỏe. Còn mấy cái nhan sắc chúc thêm có thừa không nhỉ. Cuối cùng vẫn là chúc mừng sinh nhật. À vẫn còn chúc đỡ l*** l** hơn, đỡ làm diễn viên hơn. HPBD 🎂🎂🎂" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
